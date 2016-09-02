@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@engrain/eslint-config-standard-jsx": "3.0.0",
+    "babel-eslint": "~6.1.2",
     "eslint": "~3.3.1",
     "eslint-config-standard": "6.0.0",
     "eslint-plugin-promise": "^2.0.0",
@@ -21,7 +22,6 @@
     "standard-engine": "^5.0.0"
   },
   "devDependencies": {
-    "babel-eslint": "^6.1.2",
     "cross-spawn": "^4.0.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
